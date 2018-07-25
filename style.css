@@ -99,7 +99,7 @@ h3{
   position:relative;
   text-align:center;
   width: 90%;
-  height:10em;
+  height:9.6em;
 }
 .project-tile:hover .project-tile-overlay {
   opacity: 1;
